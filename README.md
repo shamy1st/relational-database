@@ -1,2 +1,1 @@
-# relational-database
-Relational Database
+# Relational Database
