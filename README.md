@@ -10,7 +10,7 @@ Implementation Language | C/C++                                 | Assembly, C/C+
 GUI Tool                | MySQL Workbench                       | Oracle SQL Developer                    | PgAdmin            | SQL Server Management Studio (SSMS)
 OS Support              | All                                   | Windows, Mac, Linux, Unix, z/OS         |                    | Windows, Mac, Linux
 Scale                   | Small, Large                          | Very Large                              | 
-Language Support        | Only SQL                              | SQL, PL/SQL                             | 
+Language Support        | Only SQL                              | SQL, PL/SQL                             | SQL, NoSQL         | 
 Data Partitioning       | No                                    | Yes                                     | 
 Security                | username, password, host to access db | username, password, profile validation to access db | 
 System Type             | Static System                         | Static, Dynamic Systems                 | 
