@@ -3,7 +3,7 @@
 
 --                      | MySQL                                 | Oracle                                  | PostgreSQL         | MS SQL Server
 ------------------------|---------------------------------------|-----------------------------------------|--------------------|--------------
-Definition              |                                       |                                         |                    | 
+Definition              | It is an open-source, cross-platform relational database management system built by Swedish Company MYSQL AB and currently supported by the Oracle. | Oracle is a relational database system (RDBMS) that implements object-oriented features. It allows to store and retrieve data quickly and safely. It can handle a large amount of data. | PostgreSQL is an open-source, cross-platform, and object-relational database management system (ORDBMS) built in the computer science department, University of California. | It is a type of RDBMS database software, which is mainly developed for the Windows system to store, retrieve, and access data requested by the developer.
 Release                 | 1995                                  | 1980                                    | 1995               | 1989
 License                 | Free, Open-source                     | Licensed, Free Express Edition          | Licensed MIT-style | Licensed Microsoft
 Implementation Language | C/C++                                 | Assembly, C/C++                         | C                  | C++
