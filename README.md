@@ -11,3 +11,5 @@ GUI Tool                | MySQL Workbench       | Oracle SQL Developer          
 Scale                   | Small, Large          | Very Large                      |                    | 
 OS Support              | All                   | Windows, Mac, Linux, Unix, z/OS |                    | Windows, Mac, Linux
 Language Support        | Only SQL              | SQL, PL/SQL                     | 
+Data Partitioning       | No                    | Yes                             | 
+Security                | username, password, host to access db | username, password, profile validation to access db | 
