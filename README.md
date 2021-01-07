@@ -5,14 +5,15 @@
 ------------------------|---------------------------------------|-----------------------------------------|--------------------|--------------
 Definition              | It is an open-source, cross-platform relational database management system built by Swedish Company MYSQL AB and currently supported by the Oracle. | Oracle is a relational database system (RDBMS) that implements object-oriented features. It allows to store and retrieve data quickly and safely. It can handle a large amount of data. | PostgreSQL is an open-source, cross-platform, and object-relational database management system (ORDBMS) built in the computer science department, University of California. | It is a type of RDBMS database software, which is mainly developed for the Windows system to store, retrieve, and access data requested by the developer.
 Release                 | 1995                                  | 1980                                    | 1995               | 1989
-License                 | Free, Open-source                     | Licensed, Free Express Edition          | Licensed MIT-style | Licensed Microsoft
+License                 | Free, Open-source (Licensed GNU)      | Licensed, Free Express Edition          | Licensed MIT-style, Open-source | Licensed Microsoft
 Implementation Language | C/C++                                 | Assembly, C/C++                         | C                  | C++
 GUI Tool                | MySQL Workbench                       | Oracle SQL Developer                    | PgAdmin            | SQL Server Management Studio (SSMS)
 OS Support              | All                                   | Windows, Mac, Linux, Unix, z/OS         |                    | Windows, Mac, Linux
-Scale                   | Small, Large                          | Very Large                              | 
+Scale                   | Small, Large                          | Very Large                              |
 Language Support        | Only SQL                              | SQL, PL/SQL                             | SQL, NoSQL         | 
 Data Partitioning       | No                                    | Yes                                     | 
 Security                | username, password, host to access db | username, password, profile validation to access db | 
+Security                | TLS support                           |                                         | Native SSL support | 
 System Type             | Static System                         | Static, Dynamic Systems                 | 
 Null Value              | Supported                             | Not Supported                           | 
 Characters              | CHAR, VARCHAR                         | CHAR, VARCHAR2, NCHAR, NVARCHAR2        | 
@@ -20,8 +21,11 @@ Backup Mechanism        | mysqlhotcopy, mysqldump               | backup, hot ba
 XML Support             | Not Supported                         | Supported                               | 
 Locking                 | Only Table Locking                    | Table Locking, Row locking              | 
 Storage Features        | tablespace, synonym, packages, ...    | tablespace, synonym, packages, ...      | 
-
-
+Storage Engine          | multi-layer structure, set of storage engines (e.g. InnoDB, MyISAM) |           | unified database server, single storage engine | 
+ACID Compliance         | Only some versions are ACID-compliant |                                         | Complete Support    | 
+Main Focus              | Speed                                 |                                         | Features, Standards | 
+Operations Complexity   | For Simple operations                 |                                         | For Large, Complex operations | 
+Table Inheritance       | Not Supported                         |                                         | Supported           | 
 
 
 ## Ref
