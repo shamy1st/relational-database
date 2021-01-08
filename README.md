@@ -30,6 +30,7 @@ Replication             | Asynchronous, Synchronous, Semi-synchronous |         
 Task Scheduler          | Scheduled Event                       |                                         | pgAgent Task Scheduler | 
 Connection Scalability  | OS thread per connection creation     |                                         | OS process per connection creation | 
 Company Uses            | GitHub, US Navy, NASA, Tesla, Netflix, Facebook, Twitter, Zappos, YouTube, Spotify, Amazon, Uber Technologies, Dropbox, Pinterest, Airbnb |  | Apple, Etsy, IMDB, Macworld, Debian, Red Hat, Sun Microsystem, Cisco, Skype | Microsoft, Stack Exchange, Intuit, MIT, Hepsiburada, PedidosYa
+Data Backup             | Block DB during data backup           |                                         |                     | Doesn't block during data backup
 
 ## Oracle vs MySQL
 
