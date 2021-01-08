@@ -26,6 +26,11 @@ ACID Compliance         | Only some versions are ACID-compliant |               
 Main Focus              | Speed                                 |                                         | Features, Standards | 
 Operations Complexity   | For Simple operations                 |                                         | For Large, Complex operations | 
 Table Inheritance       | Not Supported                         |                                         | Supported           | 
+Replication             | Asynchronous, Synchronous, Semi-synchronous |                                   | Asynchronous, Synchronous, Cascade | 
+Task Scheduler          | Scheduled Event                       |                                         | pgAgent Task Scheduler | 
+Connection Scalability  | OS thread per connection creation     |                                         | OS process per connection creation | 
+Company Uses            | GitHub, US Navy, NASA, Tesla, Netflix, Facebook, Twitter, Zappos, YouTube, Spotify, Amazon, Uber Technologies, Dropbox, Pinterest, Airbnb |  | Apple, Etsy, IMDB, Macworld, Debian, Red Hat, Sun Microsystem, Cisco, Skype | Microsoft, Stack Exchange, Intuit, MIT, Hepsiburada, PedidosYa
+
 
 
 ## Ref
