@@ -31,6 +31,25 @@ Task Scheduler          | Scheduled Event                       |               
 Connection Scalability  | OS thread per connection creation     |                                         | OS process per connection creation | 
 Company Uses            | GitHub, US Navy, NASA, Tesla, Netflix, Facebook, Twitter, Zappos, YouTube, Spotify, Amazon, Uber Technologies, Dropbox, Pinterest, Airbnb |  | Apple, Etsy, IMDB, Macworld, Debian, Red Hat, Sun Microsystem, Cisco, Skype | Microsoft, Stack Exchange, Intuit, MIT, Hepsiburada, PedidosYa
 
+## Oracle vs MySQL
+
+### Oracle advantages over MySQL
+
+### MySQL advantages over Oracle
+
+
+## PostgreSQL vs MySQL
+
+### PostgreSQL advantages over MySQL
+
+### MySQL advantages over PostgreSQL
+
+
+## MS SQL Server vs MySQL
+
+### MS SQL Server advantages over MySQL
+
+### MySQL advantages over MS SQL Server
 
 
 ## Ref
