@@ -35,8 +35,18 @@ Company Uses            | GitHub, US Navy, NASA, Tesla, Netflix, Facebook, Twitt
 
 ### Oracle advantages over MySQL
 
+* PostgreSQL is a very secure, independent, and feature-rich open-source database.
+* PostgreSQL supports a lot of advanced data types like multi-dimensional arrays, user-defined types, etc.
+* PostgreSQL follows the SQL standards very well and supports "advanced" SQL stuff like window functions or common table expressions.
+* It provides all performance optimization that is supported in Oracle and SQL Server.
+* PostgreSQL is using by companies like Amazon, Redshift, Instagram, etc.
+
 ### MySQL advantages over Oracle
 
+* MySQL is more popular than PostgreSQL in terms of DB ranking.
+* Getting community support and search answers is easier in MySQL than PostgreSQL.
+* Replication is well implemented in MySQL rather than PostgreSQL.
+* MySQL is using by companies like Facebook, Twitter, Pinterest, etc.
 
 ## PostgreSQL vs MySQL
 
